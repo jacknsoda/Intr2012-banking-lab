@@ -11,8 +11,6 @@ let index_balance = document.getElementById('balance');
       // The above can be simplified:
       //    document.getElementById('username').innerHTML = name;
 
-
-
 // 1. Let them know their starting balance
       // Search the document for the 'balance' element
       // Change the content of the element
